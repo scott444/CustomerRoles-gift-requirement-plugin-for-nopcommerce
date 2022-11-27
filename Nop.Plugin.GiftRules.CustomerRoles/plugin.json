@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Gift requirements",
+  "FriendlyName": "Must be assigned to customer role",
+  "SystemName": "GiftRequirement.MustBeAssignedToCustomerRole",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.50" ],
+  "Author": "Scott Howell",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.GiftRules.CustomerRoles.dll",
+  "Description": "This plugin allows you to configure gifts for certain customer groups (roles)"
+}
