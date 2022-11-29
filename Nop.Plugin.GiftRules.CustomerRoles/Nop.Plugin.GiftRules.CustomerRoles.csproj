@@ -34,8 +34,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Libraries\Nop.Services\Nop.Services.csproj" />
+    <ProjectReference Include="..\..\Nop.Plugin.Misc.GiftProvider.Common\Nop.Plugin.Misc.GiftProvider.Common.csproj" />
     <ProjectReference Include="..\..\Presentation\Nop.Web.Framework\Nop.Web.Framework.csproj" />
-    <ProjectReference Include="..\Nop.Plugin.Misc.GiftProvider\Nop.Plugin.Misc.GiftProvider.csproj" />
   </ItemGroup>
 
 
